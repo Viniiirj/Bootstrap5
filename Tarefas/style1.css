@@ -6,16 +6,15 @@
 
 .container {
   border: 3px dotted red;
-  height: 400px;
 }
 
 .row {
   border: 1px solid salmon;
-  height: 200px;
 }
 
-.col-3 {
+.col {
   border: 1px solid blue;
+  height: 50px;
   padding: 10px;
 }
 
