@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  border: 3px dotted red;
+  height: 400px;
+}
+
+.row {
+  border: 1px solid salmon;
+  height: 200px;
+}
+
+.col-3 {
+  border: 1px solid blue;
+  padding: 10px;
+}
+
+.par {
+  background-color: green;
+}
+
+.impar {
+  background-color: yellow;
+}
